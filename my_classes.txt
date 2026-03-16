@@ -1,0 +1,8 @@
+1. [101] C [credit 3 - A+~F]
+2. [205] Java [credit 3 - A+~F]
+3. [302] Database [credit 3 - A+~F]
+4. [401] Capstone1 [credit 4 - A+~F]
+Total classes : 4
+Total credits : 13
+A+~F credits : 13
+P/F credits : 0
